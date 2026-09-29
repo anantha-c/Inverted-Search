@@ -1,11 +1,4 @@
-/***************************************************************************************************************************************************
-*Project name	:INVERTED SEARCH
-*Author			:SIDDHARTH GAIKWAD
-*Date			:Mon 08 Jan 2026 14:00:05 IST
-*File			:main.c
-*Title			:Driver function
-*Description	:This function acts like the driver function for the project inverted search
-****************************************************************************************************************************************************/
+
 #include "invertedSearch.h"
 
 /* Used to check wether valid file list is created or not.*/
